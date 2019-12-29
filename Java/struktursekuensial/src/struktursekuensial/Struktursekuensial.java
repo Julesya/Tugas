@@ -16,7 +16,7 @@ public class Struktursekuensial {
      */
     public static void main(String[] args) {
         System.out.println("                      Selamat Datang ");
-        System.out.print  ("                       Diblog Saya \n");
+        System.out.print  ("                Diblog julesya.blogspot.com \n");
         System.out.print  ("  Hari ini kita akan membahas tentang struktur sekuensial \n");
  
     }
